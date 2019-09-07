@@ -1,0 +1,6 @@
+[14-Feb-2018 13:57:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/amarsrivastava/public_html/hackathon/registration/team/Admin/index.php on line 16
+[14-Feb-2018 13:57:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/amarsrivastava/public_html/hackathon/registration/team/Admin/index.php on line 18
+[14-Feb-2018 13:57:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/amarsrivastava/public_html/hackathon/registration/team/Admin/index.php on line 16
+[14-Feb-2018 13:57:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/amarsrivastava/public_html/hackathon/registration/team/Admin/index.php on line 18
+[14-Feb-2018 14:00:53 UTC] PHP Notice:  Undefined index: id in /home/amarsrivastava/public_html/hackathon/registration/team/Admin/view.php on line 3
+[14-Feb-2018 14:08:58 UTC] PHP Notice:  Undefined index: id in /home/amarsrivastava/public_html/hackathon/registration/team/Admin/download.php on line 3
